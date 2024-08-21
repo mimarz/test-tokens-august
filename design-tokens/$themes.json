@@ -8,14 +8,6 @@
     "group": "Size"
   },
   {
-    "id": "f0643fe8-2845-4d00-abba-58aaf4634ccb",
-    "name": "compact",
-    "selectedTokenSets": {
-      "primitives/size/compact": "enabled"
-    },
-    "group": "Size"
-  },
-  {
     "id": "46198e8c-b0c8-4134-bdfa-79d06f1997aa",
     "name": "digg",
     "selectedTokenSets": {
