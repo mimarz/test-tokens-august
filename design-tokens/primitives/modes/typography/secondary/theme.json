@@ -2,7 +2,7 @@
   "theme": {
     "main": {
       "$type": "fontFamilies",
-      "$value": "Arial"
+      "$value": "Inter"
     },
     "bold": {
       "$type": "fontWeights",

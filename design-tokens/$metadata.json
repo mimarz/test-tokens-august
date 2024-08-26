@@ -3,6 +3,7 @@
     "primitives/modes/globals",
     "primitives/size/default",
     "primitives/modes/typography/primary/theme",
+    "primitives/modes/typography/secondary/theme",
     "primitives/modes/colors/light/global",
     "primitives/modes/colors/light/theme",
     "primitives/modes/colors/dark/global",
