@@ -1,26 +1,16 @@
 {
-  "digg": {
+  "theme": {
     "main": {
       "$type": "fontFamilies",
-      "$value": "IBM Plex Mono"
+      "$value": "Arial"
     },
     "bold": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
       "$type": "fontWeights",
       "$value": "Medium"
     },
     "extra-bold": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
       "$type": "fontWeights",
-      "$value": "SemiBold"
+      "$value": "Semi bold"
     },
     "regular": {
       "$type": "fontWeights",
