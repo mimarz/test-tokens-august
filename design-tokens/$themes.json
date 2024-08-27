@@ -1,6 +1,6 @@
 [
   {
-    "id": "a5c3d946-d757-483b-adc8-bd93822d68a9",
+    "id": "7727d1f3-fc5c-42b7-bcb5-b8872af5579d",
     "name": "default",
     "selectedTokenSets": {
       "primitives/size/default": "enabled"
@@ -8,7 +8,7 @@
     "group": "Size"
   },
   {
-    "id": "38972870-5e84-47be-9f0b-f88f47882f41",
+    "id": "c133a50c-b3a4-48fd-a430-f0e4264d8a90",
     "name": "theme",
     "selectedTokenSets": {
       "themes/theme": "enabled"
@@ -16,7 +16,7 @@
     "group": "Theme"
   },
   {
-    "id": "43edf7eb-1620-40f2-96f5-4bfe7f8d22af",
+    "id": "745d577d-d66f-4f13-b19e-5480124daee4",
     "name": "primary",
     "selectedTokenSets": {
       "primitives/modes/typography/primary/theme": "enabled"
@@ -24,7 +24,7 @@
     "group": "Typography"
   },
   {
-    "id": "4af81fc9-6fef-4d3d-b0b6-45352f483e6e",
+    "id": "ee34d7cf-4b1c-45f5-8560-8a90ce6efc5c",
     "name": "secondary",
     "selectedTokenSets": {
       "primitives/modes/typography/secondary/theme": "enabled"
@@ -32,7 +32,7 @@
     "group": "Typography"
   },
   {
-    "id": "a934b13f-884a-4379-be86-32574ddcce91",
+    "id": "5fd17cd8-fc76-4553-bf39-06d11cac149a",
     "name": "Light",
     "selectedTokenSets": {
       "primitives/modes/colors/light/global": "enabled",
@@ -41,7 +41,7 @@
     "group": "Mode"
   },
   {
-    "id": "e1820e5f-e8c7-4ee2-bf1f-acd619bf8430",
+    "id": "5b78b4c0-6201-4188-b057-39420b859f94",
     "name": "Dark",
     "selectedTokenSets": {
       "primitives/modes/colors/dark/global": "enabled",
@@ -50,7 +50,7 @@
     "group": "Mode"
   },
   {
-    "id": "f388d432-61d6-4e79-a4ed-01078e7585f2",
+    "id": "5295a35a-d934-42ac-9f6a-e86394f6206c",
     "name": "Contrast",
     "selectedTokenSets": {
       "primitives/modes/colors/contrast/global": "enabled",
@@ -59,7 +59,7 @@
     "group": "Mode"
   },
   {
-    "id": "a4d4806d-bcfb-4ce8-b8ed-24e6bb56d74a",
+    "id": "94541162-d304-4ef8-bb93-917753ab70aa",
     "name": "Semantic",
     "selectedTokenSets": {
       "semantic/style": "enabled",
