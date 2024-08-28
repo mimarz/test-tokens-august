@@ -3,55 +3,55 @@
     "accent": {
       "1": {
         "$type": "color",
-        "$value": "#400001"
+        "$value": "#001c36"
       },
       "2": {
         "$type": "color",
-        "$value": "#510001"
+        "$value": "#002445"
       },
       "3": {
         "$type": "color",
-        "$value": "#680002"
+        "$value": "#00315c"
       },
       "4": {
         "$type": "color",
-        "$value": "#820002"
+        "$value": "#003d75"
       },
       "5": {
         "$type": "color",
-        "$value": "#9c0003"
+        "$value": "#004b8f"
       },
       "6": {
         "$type": "color",
-        "$value": "#aa0003"
+        "$value": "#00529d"
       },
       "7": {
         "$type": "color",
-        "$value": "#ca3b3d"
+        "$value": "#1972c1"
       },
       "8": {
         "$type": "color",
-        "$value": "#eab0b1"
+        "$value": "#9cc2e4"
       },
       "9": {
         "$type": "color",
-        "$value": "#da7678"
+        "$value": "#4b90ce"
       },
       "10": {
         "$type": "color",
-        "$value": "#d15658"
+        "$value": "#287ac5"
       },
       "11": {
         "$type": "color",
-        "$value": "#c73133"
+        "$value": "#0163ba"
       },
       "12": {
         "$type": "color",
-        "$value": "#e08c8e"
+        "$value": "#72a8d9"
       },
       "13": {
         "$type": "color",
-        "$value": "#f5dcdc"
+        "$value": "#d4e5f3"
       },
       "contrast-1": {
         "$type": "color",
@@ -59,7 +59,7 @@
       },
       "contrast-2": {
         "$type": "color",
-        "$value": "#060304"
+        "$value": "#0d1823"
       }
     },
     "neutral": {
@@ -127,187 +127,187 @@
     "brand1": {
       "1": {
         "$type": "color",
-        "$value": "#2d1415"
+        "$value": "#2f1213"
       },
       "2": {
         "$type": "color",
-        "$value": "#341d1e"
+        "$value": "#3c1819"
       },
       "3": {
         "$type": "color",
-        "$value": "#402a2b"
+        "$value": "#522021"
       },
       "4": {
         "$type": "color",
-        "$value": "#4d3839"
+        "$value": "#68292a"
       },
       "5": {
         "$type": "color",
-        "$value": "#594747"
+        "$value": "#7f3234"
       },
       "6": {
         "$type": "color",
-        "$value": "#604e4f"
+        "$value": "#8b3639"
       },
       "7": {
         "$type": "color",
-        "$value": "#7b6c6d"
+        "$value": "#bc494c"
       },
       "8": {
         "$type": "color",
-        "$value": "#c3bcbc"
+        "$value": "#f9a9ab"
       },
       "9": {
         "$type": "color",
-        "$value": "#b2a9aa"
+        "$value": "#9f3e41"
       },
       "10": {
         "$type": "color",
-        "$value": "#9e9394"
+        "$value": "#7f3234"
       },
       "11": {
         "$type": "color",
-        "$value": "#8c7e7f"
+        "$value": "#602627"
       },
       "12": {
         "$type": "color",
-        "$value": "#aaa0a1"
+        "$value": "#f67f82"
       },
       "13": {
         "$type": "color",
-        "$value": "#e5e2e3"
+        "$value": "#fcdadb"
       },
       "contrast-1": {
         "$type": "color",
-        "$value": "#000000"
+        "$value": "#ffffff"
       },
       "contrast-2": {
         "$type": "color",
-        "$value": "#1c1b1b"
+        "$value": "#fefefe"
       }
     },
     "brand2": {
       "1": {
         "$type": "color",
-        "$value": "#221a0b"
+        "$value": "#231a05"
       },
       "2": {
         "$type": "color",
-        "$value": "#2c220e"
+        "$value": "#2d2206"
       },
       "3": {
         "$type": "color",
-        "$value": "#3b2e13"
+        "$value": "#3d2e09"
       },
       "4": {
         "$type": "color",
-        "$value": "#4b3b18"
+        "$value": "#4f3b0b"
       },
       "5": {
         "$type": "color",
-        "$value": "#5c481e"
+        "$value": "#60470d"
       },
       "6": {
         "$type": "color",
-        "$value": "#654f21"
+        "$value": "#684e0f"
       },
       "7": {
         "$type": "color",
-        "$value": "#806d44"
+        "$value": "#8e6914"
       },
       "8": {
         "$type": "color",
-        "$value": "#c6bdaa"
+        "$value": "#e9b742"
       },
       "9": {
         "$type": "color",
-        "$value": "#a49779"
+        "$value": "#513d0b"
       },
       "10": {
         "$type": "color",
-        "$value": "#92825e"
+        "$value": "#684e0f"
       },
       "11": {
         "$type": "color",
-        "$value": "#806d44"
+        "$value": "#826012"
       },
       "12": {
         "$type": "color",
-        "$value": "#aea288"
+        "$value": "#d09a1d"
       },
       "13": {
         "$type": "color",
-        "$value": "#e5e1d9"
+        "$value": "#f5dfac"
       },
       "contrast-1": {
         "$type": "color",
-        "$value": "#000000"
+        "$value": "#ffffff"
       },
       "contrast-2": {
         "$type": "color",
-        "$value": "#0c0b09"
+        "$value": "#ddd9cf"
       }
     },
     "brand3": {
       "1": {
         "$type": "color",
-        "$value": "#081d2e"
+        "$value": "#061d30"
       },
       "2": {
         "$type": "color",
-        "$value": "#0a253a"
+        "$value": "#07253c"
       },
       "3": {
         "$type": "color",
-        "$value": "#0e334e"
+        "$value": "#0a3251"
       },
       "4": {
         "$type": "color",
-        "$value": "#124063"
+        "$value": "#0d4068"
       },
       "5": {
         "$type": "color",
-        "$value": "#1b4f76"
+        "$value": "#0f4e7f"
       },
       "6": {
         "$type": "color",
-        "$value": "#25567c"
+        "$value": "#11558a"
       },
       "7": {
         "$type": "color",
-        "$value": "#4b7392"
+        "$value": "#1773b9"
       },
       "8": {
         "$type": "color",
-        "$value": "#aec0ce"
+        "$value": "#81c5f9"
       },
       "9": {
         "$type": "color",
-        "$value": "#97aec0"
+        "$value": "#13609a"
       },
       "10": {
         "$type": "color",
-        "$value": "#7c9ab0"
+        "$value": "#0f4c7a"
       },
       "11": {
         "$type": "color",
-        "$value": "#6185a0"
+        "$value": "#0b3a5d"
       },
       "12": {
         "$type": "color",
-        "$value": "#8da6ba"
+        "$value": "#44aaf7"
       },
       "13": {
         "$type": "color",
-        "$value": "#dce4ea"
+        "$value": "#c8e6fd"
       },
       "contrast-1": {
         "$type": "color",
-        "$value": "#000000"
+        "$value": "#ffffff"
       },
       "contrast-2": {
         "$type": "color",
-        "$value": "#181b1e"
+        "$value": "#fafcfd"
       }
     }
   }
