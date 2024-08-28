@@ -12,7 +12,7 @@
     "./*": "./dist/*"
   },
   "scripts": {
-    "build": "npm run clean && designsystemet tokens build -o ./dist",
+    "build": "npm run clean && designsystemet tokens build -o ./build",
     "clean": "rimraf dist"
   },
   "author": "",
