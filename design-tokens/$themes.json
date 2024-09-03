@@ -1,6 +1,6 @@
 [
   {
-    "id": "c30e9c38-a27e-47d0-87e7-9dc43186d5ae",
+    "id": "8b2c8cc86611a34b135cb22948666779361fd729",
     "name": "default",
     "selectedTokenSets": {
       "primitives/size/default": "enabled"
@@ -8,7 +8,7 @@
     "group": "Size"
   },
   {
-    "id": "51d4e031-21b2-4b47-8709-2cd0d6a8079a",
+    "id": "869375c9",
     "name": "theme",
     "selectedTokenSets": {
       "themes/theme": "enabled"
@@ -16,24 +16,24 @@
     "group": "Theme"
   },
   {
-    "id": "14f6c0b3-e920-427e-bdd3-4264ba0312ed",
-    "name": "primary",
+    "id": "368d753fcac4455f289500eaa42e70dc0a03522f",
+    "name": "Primary",
     "selectedTokenSets": {
       "primitives/modes/typography/primary/theme": "enabled"
     },
     "group": "Typography"
   },
   {
-    "id": "dcb58a29-e7a8-4ec6-a9e0-692145cb2428",
-    "name": "secondary",
+    "id": "264b8bd1d40b364e1ea3acf09e49795ddd4c513c",
+    "name": "Secondary",
     "selectedTokenSets": {
       "primitives/modes/typography/secondary/theme": "enabled"
     },
     "group": "Typography"
   },
   {
-    "id": "c27e3cb1-5e3b-43b4-916f-34c263fb5098",
-    "name": "Light",
+    "id": "0daa3ca0b427b9349da7e7dc00101b5668972926",
+    "name": "light",
     "selectedTokenSets": {
       "primitives/modes/colors/light/global": "enabled",
       "primitives/modes/colors/light/theme": "enabled"
@@ -41,8 +41,8 @@
     "group": "Mode"
   },
   {
-    "id": "01a09408-6771-44d2-ab35-a8bd9814802f",
-    "name": "Dark",
+    "id": "9ebd8aed52afbffc17e2666e8b4653a53498b257",
+    "name": "dark",
     "selectedTokenSets": {
       "primitives/modes/colors/dark/global": "enabled",
       "primitives/modes/colors/dark/theme": "enabled"
@@ -50,8 +50,8 @@
     "group": "Mode"
   },
   {
-    "id": "c40d4a50-4aa4-4d03-88d5-bfea92860443",
-    "name": "Contrast",
+    "id": "9ebd8aed52afbffc17e2666e8b4653a53498b123",
+    "name": "contrast",
     "selectedTokenSets": {
       "primitives/modes/colors/contrast/global": "enabled",
       "primitives/modes/colors/contrast/theme": "enabled"
@@ -59,7 +59,7 @@
     "group": "Mode"
   },
   {
-    "id": "4a3af455-a92f-424b-884b-82798bd2ebf6",
+    "id": "541629445ef90ad5363f9e88f52a1ccb617e6f84",
     "name": "Semantic",
     "selectedTokenSets": {
       "semantic/style": "enabled",
