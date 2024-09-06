@@ -8,10 +8,10 @@
     "group": "Size"
   },
   {
-    "id": "869375c9",
-    "name": "theme",
+    "id": "a94a8fe5ccb19ba61c4c0873d391e987982fbbd3",
+    "name": "test",
     "selectedTokenSets": {
-      "themes/theme": "enabled"
+      "themes/test": "enabled"
     },
     "group": "Theme"
   },
@@ -19,7 +19,7 @@
     "id": "368d753fcac4455f289500eaa42e70dc0a03522f",
     "name": "Primary",
     "selectedTokenSets": {
-      "primitives/modes/typography/primary/theme": "enabled"
+      "primitives/modes/typography/primary/test": "enabled"
     },
     "group": "Typography"
   },
@@ -27,7 +27,7 @@
     "id": "264b8bd1d40b364e1ea3acf09e49795ddd4c513c",
     "name": "Secondary",
     "selectedTokenSets": {
-      "primitives/modes/typography/secondary/theme": "enabled"
+      "primitives/modes/typography/secondary/test": "enabled"
     },
     "group": "Typography"
   },
@@ -36,7 +36,7 @@
     "name": "light",
     "selectedTokenSets": {
       "primitives/modes/colors/light/global": "enabled",
-      "primitives/modes/colors/light/theme": "enabled"
+      "primitives/modes/colors/light/test": "enabled"
     },
     "group": "Mode"
   },
@@ -45,7 +45,7 @@
     "name": "dark",
     "selectedTokenSets": {
       "primitives/modes/colors/dark/global": "enabled",
-      "primitives/modes/colors/dark/theme": "enabled"
+      "primitives/modes/colors/dark/test": "enabled"
     },
     "group": "Mode"
   },
@@ -54,7 +54,7 @@
     "name": "contrast",
     "selectedTokenSets": {
       "primitives/modes/colors/contrast/global": "enabled",
-      "primitives/modes/colors/contrast/theme": "enabled"
+      "primitives/modes/colors/contrast/test": "enabled"
     },
     "group": "Mode"
   },

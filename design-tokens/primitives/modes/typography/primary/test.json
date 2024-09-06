@@ -1,5 +1,5 @@
 {
-  "theme": {
+  "test": {
     "main": {
       "$type": "fontFamilies",
       "$value": "Arial"
