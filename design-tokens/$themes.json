@@ -19,12 +19,23 @@
     "group": "Theme"
   },
   {
+    "id": "bb8d25ac5e5835bd8ce92ba109fb1f0f245933ea",
+    "$figmaCollectionId": "VariableCollectionId:36329:62335",
+    "$figmaModeId": "36329:5",
+    "name": "digg",
+    "selectedTokenSets": {
+      "themes/digg": "enabled"
+    },
+    "group": "Theme"
+  },
+  {
     "id": "368d753fcac4455f289500eaa42e70dc0a03522f",
     "$figmaCollectionId": "VariableCollectionId:36248:20769",
     "$figmaModeId": "36248:2",
     "name": "Primary",
     "selectedTokenSets": {
-      "primitives/modes/typography/primary/test": "enabled"
+      "primitives/modes/typography/primary/test": "enabled",
+      "primitives/modes/typography/primary/digg": "enabled"
     },
     "group": "Typography"
   },
@@ -34,7 +45,8 @@
     "$figmaModeId": "36248:3",
     "name": "Secondary",
     "selectedTokenSets": {
-      "primitives/modes/typography/secondary/test": "enabled"
+      "primitives/modes/typography/secondary/test": "enabled",
+      "primitives/modes/typography/secondary/digg": "enabled"
     },
     "group": "Typography"
   },
@@ -42,7 +54,8 @@
     "name": "Light",
     "selectedTokenSets": {
       "primitives/modes/colors/light/global": "enabled",
-      "primitives/modes/colors/light/test": "enabled"
+      "primitives/modes/colors/light/test": "enabled",
+      "primitives/modes/colors/light/digg": "enabled"
     },
     "id": "0daa3ca0b427b9349da7e7dc00101b5668972926",
     "$figmaCollectionId": "VariableCollectionId:34811:5472",
@@ -53,7 +66,8 @@
     "name": "Dark",
     "selectedTokenSets": {
       "primitives/modes/colors/dark/global": "enabled",
-      "primitives/modes/colors/dark/test": "enabled"
+      "primitives/modes/colors/dark/test": "enabled",
+      "primitives/modes/colors/dark/digg": "enabled"
     },
     "id": "9ebd8aed52afbffc17e2666e8b4653a53498b257",
     "$figmaCollectionId": "VariableCollectionId:34811:5472",
@@ -64,7 +78,8 @@
     "name": "Contrast",
     "selectedTokenSets": {
       "primitives/modes/colors/contrast/global": "enabled",
-      "primitives/modes/colors/contrast/test": "enabled"
+      "primitives/modes/colors/contrast/test": "enabled",
+      "primitives/modes/colors/contrast/digg": "enabled"
     },
     "id": "9ebd8aed52afbffc17e2666e8b4653a53498b123",
     "$figmaCollectionId": "VariableCollectionId:34811:5472",

@@ -1,0 +1,20 @@
+{
+  "digg": {
+    "main": {
+      "$type": "fontFamilies",
+      "$value": "Arial"
+    },
+    "bold": {
+      "$type": "fontWeights",
+      "$value": "Medium"
+    },
+    "extra-bold": {
+      "$type": "fontWeights",
+      "$value": "Semi bold"
+    },
+    "regular": {
+      "$type": "fontWeights",
+      "$value": "Regular"
+    }
+  }
+}
