@@ -2,6 +2,8 @@
   "tokenSetOrder": [
     "primitives/globals",
     "primitives/size/default",
+    "primitives/modes/typography/primary/test",
+    "primitives/modes/typography/primary/digg",
     "primitives/modes/colors/light/global",
     "primitives/modes/colors/light/test",
     "primitives/modes/colors/light/digg",
@@ -16,8 +18,6 @@
     "semantic/color",
     "semantic/style",
     "Figma/components",
-    "primitives/modes/typography/primary/test",
-    "primitives/modes/typography/primary/digg",
     "primitives/modes/typography/secondary/test",
     "primitives/modes/typography/secondary/digg"
   ]
